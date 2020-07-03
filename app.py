@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 from wordcloud import WordCloud,STOPWORDS
 import matplotlib.pyplot as plt 
-from flask_caching import Cache
+#from flask_caching import Cache
 #from streamlit import caching
 
 
