@@ -1,0 +1,16 @@
+Flask==1.1.2
+Jinja2==2.11.2
+gunicorn==19.9.0
+itsdangerous==1.1.0
+MarkupSafe==1.1.1
+Werkzeug==1.0.1
+wordcloud==1.7.0
+numpy==1.17.4
+scipy>=1.4.1
+scikit.learn--0.22.1
+pandas>=0.19
+flasgger==0.9.4
+re
+nltk>=3.5
+regex==2020.6.8
+matplotlib==3.2.2
